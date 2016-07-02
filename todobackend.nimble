@@ -4,7 +4,7 @@ version       = "0.1.0"
 author        = "Cody Ebberson"
 description   = "Todo Backend in Nim"
 license       = "MIT"
-bin           = @["todobackend"]
+bin           = @["todobackend", "todobackend_mysql"]
 
 # Dependencies
 
